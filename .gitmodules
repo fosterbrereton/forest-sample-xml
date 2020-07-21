@@ -1,0 +1,4 @@
+[submodule "stlab"]
+	path = stlab
+	url = git@github.com:stlab/libraries.git
+    branch = develop
